@@ -1,0 +1,8 @@
+{
+    "name": "Promote Crossplane Release",
+    "description": "Promotes a Crossplane release to a particular channel.",
+    "iconName": "crossplane",
+    "categories": [
+        "Go"
+    ]
+}

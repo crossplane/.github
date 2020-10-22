@@ -1,0 +1,8 @@
+{
+    "name": "Tag Crossplane Release",
+    "description": "Tags a Crossplane release.",
+    "iconName": "crossplane",
+    "categories": [
+        "Go"
+    ]
+}
